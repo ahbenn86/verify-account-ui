@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Muli:300,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&family=M+PLUS+Code+Latin&family=Mulish:wght@300;700&display=swap');
 
 * {
     margin: 0;
@@ -8,7 +8,7 @@
 
 body {
     background-color: #fbfcfe;
-    font-family: 'Muli', sans-serif;
+    font-family: 'Mulish', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background-color: white;
+    background-color: rgba(134, 211, 255, 0.273);
     border: 3px #000 solid;
     border-radius: 10px;
     padding: 30px;
@@ -56,7 +56,7 @@ body {
 }
 
 .info {
-    background-color: #eaeaea;
+    background-color: #ffffff;
     display: inline-block;
     padding: 10px;
     line-height: 20px;
