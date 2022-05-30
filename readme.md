@@ -2,7 +2,7 @@
 
 <br/>
 
-
+<a href="https://ahbenn86.github.io/verify-account-ui/">Click to view<a/>
 
 <br/>
 
